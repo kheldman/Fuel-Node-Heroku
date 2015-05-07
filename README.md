@@ -23,7 +23,7 @@ You can deploy this app to Heroku and have it up and running instantly.
 To install this application locally, type the following in command line
 
 ```
-git clone git@github.com:kheldman1/Fuel-Node.git
+git clone git@github.com:kheldman/Fuel-Node-Heroku.git
 cd Fuel-Node-Heroku
 npm install
 ```
