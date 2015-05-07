@@ -20,18 +20,11 @@ You can deploy this app to Heroku and have it up and running instantly.
 
 ## Installing the Application
 
-This library is compatible with:
-- Node.js
-  - 0.8
-  - 0.10
-  - 0.12
-- io.js
-
 To install this application locally, type the following in command line
 
 ```
 git clone git@github.com:kheldman1/Fuel-Node.git
-cd Fuel-Node
+cd Fuel-Node-Heroku
 npm install
 ```
  
@@ -42,7 +35,7 @@ Note: `npm install` will error if you're using node version 0.8 with developer d
 
 Follow these instructions to run the application on your local machine:
 
-1. Change the current directory to Node-Fuel
+1. Change the current directory to Fuel-Node-Heroku
 2. Execute the follwoing command: `node app.js`
 3. Open the following page in your web browser: [http://localhost:3000] [5]
 
