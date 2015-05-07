@@ -1,8 +1,8 @@
 # Fuel (for Node.js)
 
-This application allows users to utilize Salesforce Marketing Cloud's Fuel Auth, REST and SOAP libraries for Node.js
+This application allows users to utilize Salesforce Marketing Cloud's Auth, REST and SOAP libraries for Node.js
 
-Learn more about our Fuel Platform Node Auth, REST, and SOAP libraries along with documentation and examples:
+Learn more about our Fuel Platform's Auth, REST, and SOAP libraries along with documentation and examples:
 * [AUTH][1]
 * [REST][2]
 * [SOAP][3]
